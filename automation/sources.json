@@ -1,0 +1,11 @@
+{
+  "user_agent": "FenerVerseFreeBot/1.0 (+https://github.com; RSS title/excerpt attribution; contact via repository)",
+  "feeds": [
+    {"name": "A Spor · Fenerbahçe", "url": "https://www.aspor.com.tr/rss/fenerbahce.xml", "default_sport": "genel", "must_mention_fenerbahce": false},
+    {"name": "A Spor · Basketbol", "url": "https://www.aspor.com.tr/rss/basketbol.xml", "default_sport": "basketbol", "must_mention_fenerbahce": true},
+    {"name": "A Spor · Voleybol", "url": "https://www.aspor.com.tr/rss/voleybol.xml", "default_sport": "voleybol", "must_mention_fenerbahce": true},
+    {"name": "A Spor · Diğer Sporlar", "url": "https://www.aspor.com.tr/rss/diger-sporlar.xml", "default_sport": "diger", "must_mention_fenerbahce": true}
+  ],
+  "max_items_per_feed": 80,
+  "summary_max_chars": 360
+}

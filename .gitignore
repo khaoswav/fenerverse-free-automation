@@ -1,0 +1,9 @@
+.DS_Store
+*.xcuserstate
+xcuserdata/
+DerivedData/
+.env
+.env.*
+!.env.example
+*.mobileprovision
+*.p12

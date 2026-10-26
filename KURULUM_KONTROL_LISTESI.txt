@@ -1,0 +1,12 @@
+KONTROL LİSTESİ
+[ ] Xcode ile FenerVerse.xcodeproj açıldı.
+[ ] Apple hesabı Xcode'a eklendi; Personal Team seçildi.
+[ ] Uygulama kendi iPhone'unda açıldı.
+[ ] Supabase ücretsiz projesi oluşturuldu.
+[ ] Backend/SETUP.sql çalıştırıldı.
+[ ] automation/publish_free_automation.command çalıştırıldı.
+[ ] GitHub Actions secrets: SUPABASE_URL ve SUPABASE_SERVICE_ROLE_KEY oluşturuldu.
+[ ] GitHub Actions sekmesinde ilk RSS senkronizasyonu başarılı.
+[ ] Uygulama > Ayarlar içinde Project URL ve anon/public key kaydedildi.
+[ ] Bağlantı kontrolü yapıldı ve kaynaklı haberler geldi.
+[ ] Üçüncü taraf RSS kaynaklarının yayın/yeniden kullanım koşulları kontrol edildi.

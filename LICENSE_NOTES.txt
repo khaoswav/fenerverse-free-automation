@@ -1,0 +1,3 @@
+FenerVerse free starter kit: provided as-is for educational and personal development use.
+The app contains no official Fenerbahçe club logo or official club assets. The name/reference to the club is descriptive, and the app is not affiliated with or endorsed by the club.
+Third-party RSS providers retain rights in their content. The automation stores only headline, a short excerpt, attribution and a link. Check each provider's terms and obtain permission where required before any public release or redistribution.
